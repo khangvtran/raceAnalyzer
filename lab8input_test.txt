@@ -1,0 +1,11 @@
+Bib	Name	Team name	Team name 2	Distance	Category	Time	Lap 1	Lap 2
+47	"Rader, Shawn"		"Hillsboro, Oregon"	50 Mile	Open Men	4:10:17.8	-	-
+299	"Mason-Gere, Loren"		"Hood River OR, Oregon"	100 Mile	Open Men	9:52:37.2	4:40:13.9	5:12:23.3
+71	"Lynch, Matthew"		"Redmond, WA"	50 Mile	Masters Men  	4:16:24.9	-	-
+290	"Clizbe, Ron "	   The Clizbe's	"Bellingham, WA."	100 Mile	Masters Men  	DNF	5:34:14.1	-
+296	"Criminale, Martin"		"Seattle, WA"	100 Mile	Singlespeed	10:16:28.2	4:43:22.7	5:33:05.5
+194	"Avolio, Peter"	Herriott Sports Performance	"Bellevue, Washington"	50 Mile	Open Men	4:45:27.3	-	-
+167	"McLean, Ina"	Bend Memorial Clinic	"Bend, Oregon"	50 Mile	Masters Women  	5:56:01.5	-	-
+295	"binder, Konrad"		"Seattle, WA"	50 Mile	Open Men	4:55:02.0	-	-
+288	"Girard, Jennifer"		"Mammoth Lakes, CA"	100 Mile	Open Women	11:44:03.9	5:27:14.9	6:16:49.0
+291	"Albright, Jim"	 Byrne Invent	"Olympia, WA"	100 Mile	Masters Men  	10:35:44.0	4:45:56.8	5:49:47.2
